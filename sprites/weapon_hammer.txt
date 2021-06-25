@@ -1,0 +1,5 @@
+4
+weapon			320 hammer	0	98	80	20
+weapon_s		320 hammer	0	118	80	20
+weapon			640 hammer	0	0	170	45
+weapon_s		640 hammer	0	48	170	45

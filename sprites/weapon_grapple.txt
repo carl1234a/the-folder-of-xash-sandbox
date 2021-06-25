@@ -1,0 +1,6 @@
+5
+crosshair		640 crosshairs	72	48	24	24
+autoaim			640 crosshairs	72	48	24	24
+weapon          640 weapon_grapple	0   0  170 45
+weapon_s        640 weapon_grapple	0   45  170 45
+d_grapple		640 weapon_grapple	138	118	32  16

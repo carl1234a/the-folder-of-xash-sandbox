@@ -1,0 +1,6 @@
+5
+crosshair			320 crosshairs		0 	0 	1 	1 
+weapon			640 weapon_flamethrower	0	0	170	45
+weapon_s		640 weapon_flamethrower	0	45	170	45
+ammo			640 320hud4		128	0	32	32
+crosshair			640 crosshairs		0 	0 	1 	1 

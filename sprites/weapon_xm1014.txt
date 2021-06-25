@@ -1,0 +1,15 @@
+14
+weapon			320 320CShud1	160	160	80	20
+weapon_s		320 320CShud1	160	180	80	20
+ammo			320 csammo	0	72	24	24
+crosshair		320 crosshairs	0	48	24	24
+autoaim			320 crosshairs	48	72	24	24
+zoom			320 ch_sniper	0	0	256	256
+zoom_autoaim		320 ch_sniper	0	0	256	256
+weapon			640 640CShud11	0	135	170	45
+weapon_s		640 640CShud13	0	135	170	45
+ammo			640 csammo	0	72	24	24
+crosshair		640 crosshairs	0	48	24	24
+autoaim			640 crosshairs	48	72	24	24
+zoom			640 ch_sniper	0	0	256	256
+zoom_autoaim		640 ch_sniper	0	0	256	256
